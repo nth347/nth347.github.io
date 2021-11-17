@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Web Pentester, Security Researcher
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Someday I'll add more information
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nguyenthaihung347@gmail.com](mailto:nguyenthaihung347@gmail.com)
