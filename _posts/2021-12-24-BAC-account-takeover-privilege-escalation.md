@@ -15,4 +15,4 @@ Additionally, the low-level admin has privilege to renew password of any custome
 
 ## Final words
 
-Authentication and authorization are basic security protections in web applications. However, developers can not always avoid mistakes when implementing them, especially if the application is large. Tt's not easy to design an efficient authentication & authorization system, and properly enforce it on each endpoint. Don't stop on this, let's find some papers about authentication & authorization and read them. Goodbye!
+Authentication and authorization are basic security protections in web applications. However, developers can not always avoid mistakes when implementing them, especially if the application is large. It's not easy to design an efficient authentication & authorization system, and properly enforce it on each endpoint. Don't stop on this, let's find some papers about authentication & authorization and read them. Goodbye!
