@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Web pentester 💉🌐 | Security researcher 🔬🔍 | Blacksmith ⚒️🗡️
+💉🌐 | 🔬🔍 | ⚒️🗡️
 
 ### More Information
 
-Same as above
+Nothing more
 
 ### Contact me
 
