@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Broken authentication & authorization leads to account takeover/privilege escalation
+title: Account takeover & privilege escalation - real cases
 categories: pentest
 ---
 Recently, I have conducted a penetration test for a big customer, they do business in the financial and securities sectors. Surely, they have a complex web application with many functionalities, many roles, and privileges. As usual, I went across each endpoint to test for broken authentication & authorization, and yes, I found some flaws in their web application.
