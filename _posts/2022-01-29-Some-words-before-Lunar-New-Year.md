@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some words before Lunar New Year
-categories: research
+categories: Research
 ---
 Back in late 2021, the World started talking about a very serious vulnerability named Log4Shell that leads to RCE, I remember the day surfing Twitter and saw a very nice tweet:
 
